@@ -1,100 +1,128 @@
-Johnny Coder
+Arian van Putten
 ============
+
+Send me an email for further contact info
+------------------- ----------------------------
+XXXXXXXXXXXXXX      arian@arianvp.me
+Utrecht XXXXXX      @ProgrammerDude
+Netherlands         +31 6 XXXXXXXXX
+------------------- ----------------------------
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+
+>  Programming enthousiast. I love hacking on Haskell and anything
+>  with strong types. Furthermore, I do my fair share of hardware
+>  hacking as well.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2016-2018 (expected)
+:   **MSc, Programming Technology - Computer Science**; University of Utrecht (Utrecht)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    Focus on Compilers, Software Verification, Software Analysis, Type Systems,
+    Category Theory.
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
 
-    *Minor: Awesomeology*
+2013-2016
+:   **BSc, Computer Science **; University of Utrecht (Utrecht)
+
+    *Cum laude*
+    *Interdisciplinary Honours Programme Utrecht, Beta Honours, Socrates Honours Society*
+    *[Honours thesis: Servis: A dependently typed DSL for web APIs](https://github.com/arianvp/servis)*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+2015-present
+:   **Backend software engineer at Channable:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+    Channable is a product feed management tool.
 
-* First item
+    I started working at Channable when it was just a small startup with 5 employees.
+    Over the past two years, we have grown to be a large company with over 50 employees
+    and many customers around Europe.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+    Responsibilities include:
 
-**That Other Job You Had**
+    * Development of core tooling and services: Involves projects in Haskell, Scala (Apache Spark) and Python
 
-Also with a short description.
+    * Operations :
+      Managing our server infrastructure with Ansible. Monitoring with Grafana and Prometheus.
+      Database maintenance of PostgresQL.  Setting up continous delivery pipelines for new projects using Docker.
+      Managing service clusters with Consul.
+
+    *I blog about the work that I do at [tech.channable.com](https://tech.channable.com)*
+
+2015-present
+:   **Teaching Assistent at University of Utrecht**
+
+    During my time at the University, I have had various education-related jobs.
+
+    * **Lab Assistent at Advanced Functional Programming Summer School**
+      I will be helping people with their assignments during this year's
+      Summer School [http://afp.school](http://afp.school)
+
+    * **Lab Assistent at Functional Programming course**
+      I supervised the labs and graded assignments
+
+    * **Lab Assistent at Data Modelling course**
+      Data Modelling is a course for Information Sciences students about Databases.
+      I supervised the labs and graded assignments
+
+    * **Digital Examination**
+      I helped set up a network of Chromebooks used for digital examination at
+      several faculties.
+
+2014
+:     **Public Relations Chair at AnonymIT conference at SNiC**
+
+      AnonymIT was a conference in 2014 about encryption, open internet and anonimity.
+      I Co-organised this conference and mostly did public relations. Furthermore, I
+      developed the conference website and ticket system, that is still being used
+      at new editions of the conference.
+
+      AnonymIT is part of SNiC, a joint venture of multiple computer science study associations, that
+      organises a yearly conference for students.
+
+      [https://anonymit.snic.nl](https://anonymit.snic.nl/index.html)
+
+      [https://snic.nl](https://snic.nl)
+
+
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Open Source Software
+:   All my toy projects are open source on my [Github](https://github.com/arianv[)
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    Furthermore: I have contributed to and am co-maintainer of
+      [Servant](https://github.com/haskell-servant), a strongly typed DSL for web APIs in Haskell.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+      [I also gave talks about it in the past.](https://www.youtube.com/watch?v=GguRdqm9ZVA)
+
+
+Open Hardware
+:   Next to programming, I also do a fair share of hardware hacking.
+
+    * I've built many custom mechanical keyboards, and have contributed
+    to open source firmware.
+
+    * Designed a fully open source IoT platform for LED lighting based
+      on the ESP8266 chip. [Github](https://github.com/arianvp/ledstrip)
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   I have experience in:
+      Haskell, Rust, C, C++, C#, Python, Scala, Idris, Agda, HOL, ML, Erlang, and more
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Other skills
+:   Extensive knowledge of GNU/Linux based operating systems. In particular `systemd` based
+    systems. I also have experience with the [Purely Functional Operating System NixOS](https://nixos.org)
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   Certificate in Advanced English (Cambridge English Language Assessment)
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
